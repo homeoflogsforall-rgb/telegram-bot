@@ -1,0 +1,2 @@
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+SUPPORT_USERNAME = os.getenv("SUPPORT_USERNAME")
